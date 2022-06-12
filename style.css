@@ -11,6 +11,7 @@
 .navbari {
   background-color: black !important;
 }
+
 .logo {
   width: 40px;
 }
@@ -49,18 +50,25 @@ footer ul{
 }
 footer a{
     text-decoration: none;
-    color: rgb(161, 161, 161);
+    color: #999;
     font-size: 15px;
+    font-family: poppins;
+}
+.bc{
+    background-color: #121111;
 }
 .copyer h6{
-    color: rgb(161, 161, 161);
+    color: rgb(232, 228, 228);
     font-size: 15px;
-    background-color: #3a3a3a;
+}
+.footerlogo{
+    width: 150px;
 }
 footer li{
     margin: 15px 0;
 }
 footer{
-    background-color: #222;
+    background-color: black;
     color: white;
+    /* padding: 90px; */
 }
