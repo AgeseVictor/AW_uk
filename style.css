@@ -40,6 +40,9 @@
 .coler{
     color: rgb(187, 161, 12);
 }
+.colo{
+    color: gold;
+}
 video{
     width: 100%;
     display: inline-block;
