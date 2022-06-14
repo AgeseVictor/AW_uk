@@ -68,10 +68,13 @@ footer a{
     width: 150px;
 }
 footer li{
-    margin: 15px 0;
+    margin: 20px 0;
 }
 footer{
     background-color: black;
     color: white;
     /* padding: 90px; */
+}
+@media and screen only (min-width:) {
+    
 }
