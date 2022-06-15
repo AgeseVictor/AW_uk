@@ -75,6 +75,52 @@ footer{
     color: white;
     /* padding: 90px; */
 }
-@media and screen only (min-width:) {
-    
+.abouter{
+    background-color: #121111;
+    padding: 100px 0;
+    line-height: 170%;
+    color: rgb(231, 228, 228);
+
+}
+.underline{
+    width: 100px;
+    height: 10px;
+    background-color: gold;
+    align-items: center;
+    margin-bottom:60px ;
+    margin: 0px auto 70px autoo;
+}
+.locator{
+    background-color: black;
+}
+.locator h5{
+    color: rgb(221, 188, 0);
+}
+.locator h6{
+    color: #999;
+}
+.underliner{
+    width: 100px;
+    height: 10px;
+    background-color: gold;
+    align-items: center;
+    margin-bottom:60px ;
+    margin: 0px auto 70px autoo;
+}
+
+.underliner{
+    width: 100px;
+    height: 10px;
+    background-color: gold;
+    align-items: center;
+    margin-bottom:60px ;
+    margin: 0px auto 70px autoo;
+    /* float: right; */
+}
+.floater{
+    align-items: flex-end;
+}
+input:focus{
+    background-color: #999 !important;
+    color: whitesmoke;
 }
