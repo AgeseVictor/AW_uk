@@ -106,6 +106,7 @@ footer{
     align-items: center;
     margin-bottom:60px ;
     margin: 0px auto 70px autoo;
+<<<<<<< HEAD
 }
 
 .underliner{
@@ -123,4 +124,6 @@ footer{
 input:focus{
     background-color: #999 !important;
     color: whitesmoke;
+=======
+>>>>>>> c02418df1af0ebce267eed12e0acb7824c508287
 }
