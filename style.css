@@ -20,7 +20,7 @@
     height:100vh;
     background-image: url(/assets/pexels-luis-quintero-2774570.jpg);
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment: fi xed;
 }
 .herodark{
     background-color:rgba(0, 0, 0, 0.5);
