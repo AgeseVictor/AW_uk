@@ -2,10 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    /* background-color: white; */
     /* font-family: poppins,sans-serif; */
 }
 .banner-image {
-  background-image: url(/assets/felix-rottmann-P0nTS-8vW-A-unsplash.jpg);
+  background-image: url(assets/felix-rottmann-P0nTS-8vW-A-unsplash.jpg);
   background-size: cover;
 }
 .navbari {
@@ -39,7 +40,7 @@
     font-weight: 500;
 }
 .coler{
-    color: rgb(187, 161, 12);
+    color: rgb(178, 154, 15);
 }
 .colo{
     color: gold;
