@@ -137,3 +137,7 @@ footer li a{
     font-family: roboto !important;
     
 }
+footer:hover a{
+    color: green;
+    font-size: 50px;
+}
