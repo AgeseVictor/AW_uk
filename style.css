@@ -21,8 +21,11 @@
     width: 100%;
     height:100vh;
     background-image: url(assets/pexels-luis-quintero-2774570.jpg);
+    /* background-image: url(assets/dove.jpg); */
     background-size: cover;
+    background-position: center center;
     background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 .herodark{
     background-color:rgba(0, 0, 0, 0.5);
@@ -137,7 +140,25 @@ footer li a{
     font-family: roboto !important;
     
 }
+
 footer:hover a{
     color: green;
     font-size: 50px;
 }
+
+.wrapper{
+    background-color: rgb(19, 20, 20);
+    /* background-color: rgb(32, 39, 39); */
+    padding:2%;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+   
+   @media  screen and (min-width: 600px) {
+    img{
+        width: 660px;
+    }
+   }
