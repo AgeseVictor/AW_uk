@@ -140,6 +140,12 @@ footer li a{
     font-family: roboto !important;
     
 }
+
+footer:hover a{
+    color: green;
+    font-size: 50px;
+}
+
 .wrapper{
     background-color: rgb(19, 20, 20);
     /* background-color: rgb(32, 39, 39); */
